@@ -3,7 +3,7 @@
 <h3 align="center">Junior NetSuite Developer | Full Stack & AI Developer in Progress 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=007ec6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ibrahim653&color=007ec6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -37,6 +37,7 @@
   </a>
   <!-- Dart -->
   <a href="https://dart.dev" target="_blank">
+    <img src="https://dart.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="42" height="42"/>
   </a>
   <!-- JavaScript -->
@@ -45,6 +46,7 @@
   </a>
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
+    <img src="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
   </a>
   <!-- Node.js -->
@@ -53,6 +55,7 @@
   </a>
   <!-- Express -->
   <a href="https://expressjs.com" target="_blank">
+    <img src="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="42" height="42"/>
   </a>
   <!-- Git -->
@@ -83,10 +86,3 @@
 <br />
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
