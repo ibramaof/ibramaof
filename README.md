@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Developer GIF" src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="380" />
+<img align="right" alt="Developer GIF" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/media/code.gif" width="380" />
 
 ## 👨‍💻 Professional Summary
 
@@ -57,4 +57,16 @@
   <a href="https://www.postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42"/>
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim653&show_icons=true&theme=radical&hide_border=true" alt="Ibrahim's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim653&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
