@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Developer GIF" src="url?id=23" width="380" />
+<img align="right" alt="Developer GIF" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/media/code.gif" width="380" />
 
 ## 👨‍💻 Professional Summary
 
