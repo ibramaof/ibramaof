@@ -3,12 +3,12 @@
 <h3 align="center">Junior NetSuite Developer | Full Stack & AI Engineering Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ibrahim653&color=007ec6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ibramaof&color=007ec6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-<img align="right" alt="Developer GIF" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/media/code.gif" width="380" />
+<img align="right" alt="Developer GIF" src="url?id=23" width="380" />
 
 ## 👨‍💻 Professional Summary
 
@@ -64,9 +64,9 @@
 ## 📊 GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim653&show_icons=true&theme=radical&hide_border=true" alt="Ibrahim's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibramaof&show_icons=true&theme=radical&hide_border=true" alt="Ibrahim's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim653&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibramaof&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
