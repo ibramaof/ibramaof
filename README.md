@@ -2,13 +2,13 @@
 
 <h3 align="center">Junior NetSuite Developer | Full Stack & AI Engineering Enthusiast 🚀</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibramaof&color=007ec6&style=for-the-badge" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
-<img align="right" alt="Developer GIF" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/media/code.gif" width="380" />
+<!-- <img align="right" alt="Developer GIF" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/media/code.gif" width="380" /> -->
 
 ## 👨‍💻 Professional Summary
 
